@@ -1,3 +1,12 @@
 .container{
-    background-color: lightyellow;
+    background-color : lightgray;
 }
+.note_bar{
+    width: 40%;
+    float: left;
+}
+ #home_text{
+     width: 60%;
+     font-size: 3em;
+
+ }
