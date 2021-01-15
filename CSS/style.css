@@ -102,3 +102,17 @@
 
 }
 
+
+#contact_abel{
+    width: 80%;
+    float: right;
+    padding-top: 30px;
+    padding-left: 64px;
+    height: 1000px;
+    font-size: 2.2em;
+   
+
+}
+#contact_abel a{
+    text-decoration: none;
+}
