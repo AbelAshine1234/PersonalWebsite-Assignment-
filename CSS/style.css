@@ -1,12 +1,11 @@
 .container{
     background-color: lavenderblush;
-     
-
 }
 .clear{
     margin: 30px;
     padding: 0;
 } 
+/*   notification bar */
 .not_bar{
     width: 20%;
     height: 100%;
@@ -40,6 +39,7 @@
 
 }
 
+/*   home pages */
 #home_page{
     width: 80%;
     float: right;
@@ -80,6 +80,7 @@
 #home_page #search_image{
     width: 20px;
 }
+/*   about me page */
 
 .about_me{
     width: 80%;
@@ -92,6 +93,7 @@
     font-size: 3em;
  
 }
+/*the cv page */
 
 #pdf{
     width: 80%;
@@ -103,6 +105,7 @@
 }
 
 
+/*the contact page */
 #contact_abel{
     width: 80%;
     float: right;
@@ -116,3 +119,7 @@
 #contact_abel a{
     text-decoration: none;
 }
+
+
+
+/* The end */
