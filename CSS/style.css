@@ -4,8 +4,8 @@
 
 }
 .clear{
-    margin: 0%;
-    padding: 0%;
+    margin: 30px;
+    padding: 0;
 } 
 .not_bar{
     width: 20%;
@@ -91,5 +91,14 @@
     text-align: center;
     font-size: 3em;
  
+}
+
+#pdf{
+    width: 80%;
+    float: right;
+    padding-top: 30px;
+    padding-left: 64px;
+    height: 1000px;
+
 }
 
