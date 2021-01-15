@@ -80,3 +80,16 @@
 #home_page #search_image{
     width: 20px;
 }
+
+.about_me{
+    width: 80%;
+    float: right;
+    padding-top: 30px;
+    padding-left: 64px;
+}
+.about_me #about_me_title{
+    text-align: center;
+    font-size: 3em;
+ 
+}
+
